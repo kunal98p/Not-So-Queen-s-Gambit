@@ -1,0 +1,1 @@
+Analyzing a position is a crucial skill for any level of chess player to acquire. Many chess players study positions almost instinctively, with no clear plan in mind. One of the most crucial aspects for position analysis is the material on the board. This notebook focuses the spotlight on the king. Our data is scrapped from four months of Lichess data of 2017. 
